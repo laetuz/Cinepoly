@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="login">Mashook</string>
+    <string name="hint_password">Masukkan Password</string>
+    <string name="tv_register">Belum punya akun?</string>
+    <string name="iv_login">Placeholder untuk gambar login</string>
+    <string name="register">Buat Akun</string>
+    <string name="hint_username">Masukkan Username</string>
+    <string name="hint_password_confirmation">Masukkan Konfirmasi Password</string>
+    <string name="profile">Profil</string>
+    <string name="text_full_name">Nama Lengkap</string>
+    <string name="text_dob">Tanggal Lahir</string>
+    <string name="text_address">Alamat</string>
+    <string name="welcome">Selamat datang, %s!</string>
+    <string name="text_logout">Logout</string>
+</resources>

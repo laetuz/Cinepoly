@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/container_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="32dp"
+        android:orientation="vertical"
+        android:padding="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iv_login">
+
+        <com.neotica.cinepoly.ui.customview.EmailCustomView
+            android:id="@+id/et_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/hint_email" />
+
+        <com.neotica.cinepoly.ui.customview.PasswordCustomView
+            android:id="@+id/et_password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textPassword"
+            android:hint="@string/hint_password" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:padding="10dp"
+        android:text="@string/login"
+        app:layout_constraintBottom_toTopOf="@+id/tv_register"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.775"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/container_login"
+        app:layout_constraintVertical_bias="0.931" />
+
+    <TextView
+        android:id="@+id/tv_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_register"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="40dp"
+        app:layout_constraintEnd_toEndOf="@+id/btn_login"
+        app:layout_constraintStart_toStartOf="@+id/btn_login" />
+
+    <ImageView
+        android:id="@+id/iv_login"
+        android:contentDescription="@string/iv_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/ic_launcher_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title_login" />
+
+    <TextView
+        android:id="@+id/tv_title_login"
+        android:textSize="21sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/login"
+        app:layout_constraintEnd_toEndOf="@+id/iv_login"
+        app:layout_constraintStart_toStartOf="@+id/iv_login"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

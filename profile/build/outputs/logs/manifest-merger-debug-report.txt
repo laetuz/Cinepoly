@@ -1,0 +1,58 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:2:1-17:12
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/ryomartin/.gradle/caches/transforms-3/c52faf77444ded23018969dc01fef5f1/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:2:11-67
+	android:versionCode
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:6:22-77
+dist:module
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:8:5-15:19
+	dist:instant
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:9:9-29
+	dist:title
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:10:9-43
+dist:delivery
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:11:9-13:25
+dist:on-demand
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:12:13-31
+dist:fusing
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:14:9-44
+	dist:include
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:14:22-41
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:16:5-77
+	android:name
+		ADDED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml:16:22-74
+application
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml reason: application injection requested
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+	android:extractNativeLibs
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/ryomartin/.gradle/caches/transforms-3/c52faf77444ded23018969dc01fef5f1/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.6.2] /Users/ryomartin/.gradle/caches/transforms-3/c52faf77444ded23018969dc01fef5f1/transformed/lifecycle-livedata-ktx-2.6.2/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/AndroidManifest.xml

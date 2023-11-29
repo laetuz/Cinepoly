@@ -15,4 +15,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Cinepoly"
 include(":app")
- 
+include(":core")
+include(":main")
+include(":profile")

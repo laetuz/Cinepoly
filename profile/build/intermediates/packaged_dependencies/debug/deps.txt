@@ -1,0 +1,2 @@
+:profile::debug;Capability: group='Cinepoly', name='profile'
+androidx.lifecycle:lifecycle-livedata-ktx;Capability: group='androidx.lifecycle', name='lifecycle-livedata-ktx'

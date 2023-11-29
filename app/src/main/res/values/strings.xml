@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">Cinepoly</string>
+
+    <!--  Launcher  -->
+    <string name="login">Login</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="tv_register">Haven\'t got account?</string>
+    <string name="iv_login">Image placeholder for login page.</string>
+
+    <string name="register">Register</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_email" translatable="false">Enter Email</string>
+    <string name="hint_password_confirmation">Enter Password Confirmation</string>
+    <string name="iv_register" translatable="false">Image placeholder for register page.</string>
+
+    <string name="profile">Profile</string>
+    <string name="text_username" translatable="false">Username</string>
+    <string name="text_full_name">Full Name</string>
+    <string name="text_dob">Date of Birth</string>
+    <string name="text_address">Address</string>
+    <string name="btn_update" translatable="false">Update</string>
+
+    <!--  Main  -->
+    <string name="text_now_playing" translatable="false">Now Playing</string>
+    <string name="text_placeholder" translatable="false">Loading…</string>
+    <string name="welcome">Welcome, %s!</string>
+
+    <!--    -->
+    <string name="text_logout">Logout</string>
+    <string name="title_main" translatable="false">Main</string>
+    <string name="title_presentation" translatable="false">Presentation</string>
+    <string name="title_profile" translatable="false">Profile</string>
 </resources>

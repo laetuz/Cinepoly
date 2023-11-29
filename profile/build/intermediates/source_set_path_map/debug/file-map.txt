@@ -1,0 +1,8 @@
+com.neotica.profile-lifecycle-livedata-ktx-2.6.2-0 /Users/ryomartin/.gradle/caches/transforms-3/c52faf77444ded23018969dc01fef5f1/transformed/lifecycle-livedata-ktx-2.6.2/res
+com.neotica.profile-pngs-1 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/build/generated/res/pngs/debug
+com.neotica.profile-resValues-2 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/build/generated/res/resValues/debug
+com.neotica.profile-packageDebugResources-3 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.neotica.profile-packageDebugResources-4 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.neotica.profile-merged_res-5 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/build/intermediates/merged_res/debug
+com.neotica.profile-debug-6 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/debug/res
+com.neotica.profile-main-7 /Users/ryomartin/AndroidStudioProjects/Cinepoly/profile/src/main/res

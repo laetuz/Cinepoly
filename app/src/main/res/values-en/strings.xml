@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Movie DB</string>
+    <string name="login">Login</string>
+    <string name="hint_password">Enter Password</string>
+    <string name="tv_register">Haven\'t got account?</string>
+    <string name="iv_login">Image placeholder for login page.</string>
+    <string name="register">Register</string>
+    <string name="hint_username">Enter Username</string>
+    <string name="hint_password_confirmation">Enter Password Confirmation</string>
+    <string name="iv_register">Image placeholder for register page.</string>
+    <string name="profile">Profile</string>
+    <string name="text_full_name">Full Name</string>
+    <string name="text_dob">Date of Birth</string>
+    <string name="text_address">Address</string>
+    <string name="welcome">Welcome, %s!</string>
+    <string name="text_logout">Logout</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    featureSplit="profile"
+    package="com.neotica.cinepoly"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="27"
+        android:targetSdkVersion="27" />
+
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <dist:module
+        dist:instant="false"
+        dist:title="@string/title_profile" >
+        <dist:delivery>
+            <dist:on-demand />
+        </dist:delivery>
+
+        <dist:fusing dist:include="true" />
+    </dist:module>
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:testOnly="true" />
+
+</manifest>
